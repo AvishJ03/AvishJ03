@@ -14,8 +14,8 @@
 </a>
 
 
-![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=AvishJ03) -->
+<!-- ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net) -->
+![Profile Views](https://komarev.com/ghpvc/?username=AvishJ03)
 
 <br>
 
@@ -28,8 +28,6 @@ Hi, i'm Avish Jain, a passionate Problem Solver from India. My passion for softw
 
 <ul>
 <li> 🌱 I’m currently pursuing B.Tech. in Information Technology at Dwarkadas J. Sanghvi College of Engineering </li>
-<li> 💼 Wanna colab on Projects? do reach, <a href="mailto:prerakgada07@gmail.com">email</a></li>
-<li> 💬 Ask me about anything, I am happy to help; </li>
-<li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
+<li> 💼 Wanna colab on Projects? do reach, <a href="mailto:avishjain0@gmail.com">email</a></li>
 </ul>
 
