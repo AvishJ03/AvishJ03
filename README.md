@@ -1,6 +1,6 @@
 <h1> Hey, I’m Avish Jain! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   
-<a href="httpd://discordapp.com/users/588705756296249355">
+<a href="https://discordapp.com/users/967758419740196884">
   <img align="left" alt="Avish | Discord" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/Avishjain33">
