@@ -13,18 +13,10 @@ Hi, i'm Avish Jain, a passionate Problem Solver from India. My passion for softw
 
 
 ## 🌐 Socials:
-<a href="https://discordapp.com/users/967758419740196884">
-  <img align="left" alt="Avish | Discord" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/Avishjain33">
-  <img align="left" alt="Avish | Twitter" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/avish-jain-810334118/">
-  <img align="left" alt="Avish | LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/avishj_05/">
-  <img align="left" alt="Avish | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
-</a>
+![](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg)
+![](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg)
+![](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)
+![](https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png)
 ![Profile Views](https://komarev.com/ghpvc/?username=AvishJ03)
 
 # 💻 Tech Stack:
