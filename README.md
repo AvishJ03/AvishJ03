@@ -2,13 +2,13 @@
 
 
 # 💫 About Me:
-Hi, i'm Avish Jain, a Tech enthusiast from India. I am passionate about the latest advancements in technology and enjoy staying up-to-date with the latest trends and innovations. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Avish Jain, a Tech enthusiast from India. I am passionate about the latest advancements in technology and enjoy staying up-to-date with the latest trends and innovations. I take great care in the experience, architecture, and code quality of the things I build.
 
 <ul>
-<li> 🔭 I'm currently working as a Software Developer Intern @Mealful Inc.</li>
-<li> 🌱 I’m currently pursuing B.Tech. in Information Technology @Dwarkadas J. Sanghvi College of Engineering. </li>
-<li> 💼 Wanna colab on Projects? do reach, <a href="mailto:avishjain0@gmail.com">email</a>.</li>
-<li> 💬 Ask me about anything related to Tech.</li>
+<li> 🔭 Software Developer Intern @Mealful Inc.</li>
+<li> 🌱 Pursuing B.Tech. in Information Technology @Dwarkadas J. Sanghvi College of Engineering. </li>
+<li> 💼 Wanna colab on Projects? Do reach, <a href="mailto:avishjain0@gmail.com">email</a>.</li>
+<li> 💬 Ask me anything related to Tech.</li>
 </ul>
 
 
