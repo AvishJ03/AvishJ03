@@ -1,5 +1,5 @@
 <h1> Hey, I’m Avish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<br>
+
 
 # 💫 About Me:
 Hi, i'm Avish Jain, a passionate Problem Solver from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -13,10 +13,7 @@ Hi, i'm Avish Jain, a passionate Problem Solver from India. My passion for softw
 
 
 ## 🌐 Socials:
-![](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg)
-![](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg)
-![](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)
-![](https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wdwdw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avishj_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avish-jain-810334118) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AvishhJ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Avishjain33)
 ![Profile Views](https://komarev.com/ghpvc/?username=AvishJ03)
 
 # 💻 Tech Stack:
