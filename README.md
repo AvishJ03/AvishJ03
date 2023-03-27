@@ -1,4 +1,4 @@
-<h1><img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> &nbsp; Hey, I’m Avish!</h1>
+<h1><img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px"> &nbsp; Hey, I’m Avish!</h1>
 
 
 # 💫 About Me:
