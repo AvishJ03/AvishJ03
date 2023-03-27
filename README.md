@@ -7,7 +7,7 @@ Hi, I'm Avish Jain, a Tech enthusiast from India. I am passionate about the late
 <ul>
 <li> 🔭 Software Developer Intern @Mealful Inc.</li>
 <li> 🌱 Pursuing B.Tech. in Information Technology @Dwarkadas J. Sanghvi College of Engineering. </li>
-<li> 💼 Wanna colab on Projects? Do reach, <a href="mailto:avishjain0@gmail.com">email</a>.</li>
+<li> 💼 Wanna colab on projects? Do reach out, <a href="mailto:avishjain0@gmail.com">email</a>.</li>
 <li> 💬 Ask me anything related to Tech.</li>
 </ul>
 
