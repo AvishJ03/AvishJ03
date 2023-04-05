@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hi, I'm Avish Jain, a Tech enthusiast from India. I am passionate about the latest advancements in technology and enjoy staying up-to-date with the latest trends and innovations. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Avish Jain, a Tech enthusiast from India. I am passionate about the latest advancements in technology and enjoy staying up-to-date with the latest trends and innovations. I am a natural problem solver and thrive in fast-paced environments that require quick thinking and adaptability.
 
 <ul>
 <li> 🔭 Software Developer Intern @Mealful Inc.</li>
